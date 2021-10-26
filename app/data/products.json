@@ -1,0 +1,27 @@
+[
+	{"try":645634, 			
+	"uuid":"1.1", 
+	"title":"Alcohol",
+	"description":"Smirnoff de tamarindo.",
+	"imageUrl":"https://th.bing.com/th/id/OIP.PpY1Qi6UovfCA8w590156wHaHa?w=190&h=190&c=7&r=0&o=5&pid=1.7",
+	"unit":"pza",
+	"stock":3,
+	"pricePerUnit":200,
+	"category":"alcohol"},
+	
+	{"title":"Limonada",
+		"description":"Deliciosa bebida",
+		"imageUrl":"- ",
+		"unit":"pza",
+		"stock":30,
+		"pricePerUnit":15,
+		"category":"aguas"},
+	
+	{"title":"Naranjada",
+		"description":" ",
+		"imageUrl":"- ",
+		"unit":"pza",
+		"stock":30,
+		"pricePerUnit":15,
+		"category":"aguas"}
+]
